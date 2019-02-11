@@ -1,11 +1,17 @@
 # Python-Bootcamp-with-ML
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harunshimanto/Python-Bootcamp-with-ML/master?urlpath=https%3A%2F%2Fgithub.com%2Fharunshimanto%2FPython-Bootcamp-with-ML)
 
-![Imgur](https://i.imgur.com/XcoYcRP.jpg)
+![Imgur](https://i.imgur.com/kw7rTHr.jpg)
+
+# Introduction of this Bootcamp:
+I hope that this bootcamp will be helpful for everyone who’s want to work in Data Science field or Machine learning field.We have one article on this [bootcamp.](https://hackernoon.com/python-bootcamp-for-ml-c321177b957e)
+                      ``"Let’s start learning with us!!"``
+![Imgur](https://i.imgur.com/eHJd47k.jpg)
 
 # Day-01:Python Basic
 -----------------------
 ## Introduction of python:
+![Imgur](https://i.imgur.com/hvakUZd.png)
 Python is developed by Guido van Rossum. Guido van Rossum started implementing Python in 1989. Python is a general-purpose, object-oriented and open source computer programming language, it is a high-level, human-readable and a corresponding set of software tools and libraries.
 ```Interesting fact: Python is named after the comedy television show Monty Python’s Flying Circus. It is not named after the Python snake.```
 ## Features of Python programming language:
@@ -46,14 +52,10 @@ This part is coding part and theoritical part of python basic.Full implementatio
 
 8.User Input
 
-# Conclusion:
-Thanks for reading this Bootcamp's notebook. If you have any suggestion feel free to reach me in the comment or [sent mail](harunspeedy1995@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/harun-ur-rashid6647/). Stay in touch for more update and Python Bootcamp Part-2 & Part-3. Thank you. 😎
-![Imgur](https://i.imgur.com/DqK5lrP.jpg)
-For the full code visit [Github](https://github.com/harunshimanto/Python-Bootcamp-with-ML) 
-If you like this Bootcamp then give 👍 upvote. Happy Bootcamp!.
 
 # Day-02:Python Intermediate
 ------------------------------
+![Imgur](https://i.imgur.com/HUxM3Bp.jpg)
 * Implementation of python(Part-02) 
   * If-Elif-Else
   * For Loop
@@ -67,13 +69,23 @@ If you like this Bootcamp then give 👍 upvote. Happy Bootcamp!.
   
 Full implementation notebook is [here.](https://goo.gl/hTVWak)
 
+# Day-03:ML or Data Science Basic Packages
+We are going to get familiar with Python. In Day-03 we will focus on ML or Data Science basic packages of Python which can be very useful for Machine Learning or Data Science.
+![Imgur](https://i.imgur.com/oNi7u0g.jpg)
+**ML or Data Science Packages topics:**
+we will focus on ML or Data Science basic packages of Python.ML or Data Science packages parts below here —
+
+1.Numpy
+2.Pandas
+3.Matplotlib
+4.Seaborn
+5.Scikit-learn
+Full implementation notebook is [here.](https://goo.gl/jcmyGW)
+
 # Conclusion:
-Thanks for reading this Bootcamp's notebook(Day02). If you have any suggestion feel free to reach me in the comment or [sent mail](harunspeedy1995@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/harun-ur-rashid6647/). Stay in touch for more update and Python Bootcamp Part-3. Thank you. 😎
-
-**If you missed [Day-01](https://goo.gl/NErwwb) then check this firstly.**
-![Imgur](https://i.imgur.com/xKwRrP4.jpg)
-For the full code visit [Github](https://github.com/harunshimanto/Python-Bootcamp-with-ML) 
-
+Thanks for completed this bootcamp. If you have any suggestion feel free to reach our Community group in the [facebook.](https://www.facebook.com/groups/MachinelearningAI/)Stay in touch for more update. Thank you. 😎
+                             ``“Finished Bootcamp!! Let’s start making project!”``
+![Imgur](https://i.imgur.com/BQIwpTm.jpg)
 **If you like this Bootcamp then give 👍 upvote. Happy Bootcamp!.**
 
 # Contributing 
