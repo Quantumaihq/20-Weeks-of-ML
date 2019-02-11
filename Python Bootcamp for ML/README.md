@@ -12,9 +12,12 @@ I hope that this bootcamp will be helpful for everyone who’s want to work in D
 ![Imgur](https://i.imgur.com/kw7rTHr.jpg)
 ## Introduction of python:
 ![Imgur](https://i.imgur.com/hvakUZd.png)
+
 Python is developed by Guido van Rossum. Guido van Rossum started implementing Python in 1989. Python is a general-purpose, object-oriented and open source computer programming language, it is a high-level, human-readable and a corresponding set of software tools and libraries.
 ```Interesting fact: Python is named after the comedy television show Monty Python’s Flying Circus. It is not named after the Python snake.```
 ## Features of Python programming language:
+![Imgur](https://i.imgur.com/bCKG4mg.jpg)
+
 1.Readable: Python is a very readable language.
 
 2.Easy to Learn: Learning python is easy as this is a expressive and high level programming language, which means it is easy to understand the language and thus easy to learn.
@@ -89,4 +92,6 @@ Thanks for completed this bootcamp. If you have any suggestion feel free to reac
 **If you like this Bootcamp then give 👍 upvote. Happy Bootcamp!.**
 
 # Contributing 
-[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/0)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/0)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/1)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/1)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/2)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/2)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/3)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/3)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/4)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/4)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/5)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/5)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/6)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/6)[![](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/images/7)](https://sourcerer.io/fame/harunshimanto/harunshimanto/Python-Bootcamp-with-ML/links/7)
+[Harun Ur Rashid](https://www.linkedin.com/in/harun-ur-rashid6647/)
+
+[Richa Yadav](https://www.linkedin.com/in/anna-list/)
