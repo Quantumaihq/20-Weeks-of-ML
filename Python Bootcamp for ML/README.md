@@ -6,7 +6,7 @@
 I hope that this bootcamp will be helpful for everyone who’s want to work in Data Science field or Machine learning field.We have one article on this [bootcamp.](https://hackernoon.com/python-bootcamp-for-ml-c321177b957e)
 
 
-                      ``"Let’s start learning with us!!"``
+                                           `Let’s start learning with us!!`
                       
                       
 ![Imgur](https://i.imgur.com/eHJd47k.jpg)
@@ -91,7 +91,9 @@ Full implementation notebook is [here.](https://goo.gl/jcmyGW)
 
 # Conclusion:
 Thanks for completed this bootcamp. If you have any suggestion feel free to reach our Community group in the [facebook.](https://www.facebook.com/groups/MachinelearningAI/)Stay in touch for more update. Thank you. 😎
-                             ``“Finished Bootcamp!! Let’s start making project!”``
+
+                               `“Finished Bootcamp!! Let’s start making project!”`
+                               
 ![Imgur](https://i.imgur.com/BQIwpTm.jpg)
 **If you like this Bootcamp then give 👍 upvote. Happy Bootcamp!.**
 
