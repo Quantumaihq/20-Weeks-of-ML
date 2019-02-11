@@ -1,7 +1,6 @@
 # Python-Bootcamp-with-ML
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harunshimanto/Python-Bootcamp-with-ML/master?urlpath=https%3A%2F%2Fgithub.com%2Fharunshimanto%2FPython-Bootcamp-with-ML)
 
-![Imgur](https://i.imgur.com/kw7rTHr.jpg)
 
 # Introduction of this Bootcamp:
 I hope that this bootcamp will be helpful for everyone who’s want to work in Data Science field or Machine learning field.We have one article on this [bootcamp.](https://hackernoon.com/python-bootcamp-for-ml-c321177b957e)
@@ -10,6 +9,7 @@ I hope that this bootcamp will be helpful for everyone who’s want to work in D
 
 # Day-01:Python Basic
 -----------------------
+![Imgur](https://i.imgur.com/kw7rTHr.jpg)
 ## Introduction of python:
 ![Imgur](https://i.imgur.com/hvakUZd.png)
 Python is developed by Guido van Rossum. Guido van Rossum started implementing Python in 1989. Python is a general-purpose, object-oriented and open source computer programming language, it is a high-level, human-readable and a corresponding set of software tools and libraries.
