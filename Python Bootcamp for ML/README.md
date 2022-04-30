@@ -98,6 +98,6 @@ Thanks for completed this bootcamp. If you have any suggestion feel free to reac
 **If you like this Bootcamp then give 👍 upvote. Happy Bootcamp!.**
 
 # Contributing 
-[Harun Ur Rashid](https://www.linkedin.com/in/harun-ur-rashid6647/)
+[Harun Ur Rashid](https://www.linkedin.com/in/harunurrashid97/)
 
-[Richa Yadav](https://www.linkedin.com/in/anna-list/)
+[Richa Yadav](https://www.linkedin.com/in/richa-yadav7/)
